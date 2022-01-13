@@ -1,0 +1,2095 @@
+import model Mod_VLQ_UFO/
+define ta = ta+ ta-
+define qb = b b~
+define lq = vlq vlq~
+generate p p > j ta lq QCD=0
+output d00_SingleLQ -nojpeg
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_01/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_02/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_03/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_04/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_05/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_06/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_07/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_08/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_09/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_10/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_11/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_12/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_13/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_14/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_15/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_16/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_17/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_18/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_19/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_20/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_21/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_22/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_23/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_24/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_25/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_26/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_27/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_28/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_29/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_30/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_31/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_32/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_33/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_34/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_35/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_36/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_37/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_38/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_39/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_40/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_41/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_42/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_43/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_44/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_45/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_46/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_47/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_48/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_49/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_50/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_51/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_52/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_53/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_54/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_55/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_56/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_57/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_58/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_59/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_60/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_61/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_62/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_63/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_64/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_65/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_66/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_67/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_68/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_69/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_70/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_71/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_72/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_73/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_74/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_75/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_76/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_77/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_78/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_79/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_80/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_81/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_82/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_83/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_84/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_85/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_86/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_87/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_88/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_89/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_90/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_91/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_92/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_93/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_94/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_95/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_96/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_97/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_98/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_99/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_100/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_101/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_102/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_103/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_104/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_105/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_106/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_107/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_108/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_109/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_110/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_111/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_112/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_113/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_114/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_115/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_116/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_117/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_118/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_119/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_120/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_121/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_122/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_123/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_124/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_125/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_126/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_127/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_128/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_129/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_130/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_131/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_132/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_133/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_134/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_135/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_136/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_137/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_138/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_139/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_140/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_141/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_142/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_143/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_144/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_145/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_146/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_147/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_148/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_149/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_150/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_151/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_152/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_153/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_154/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_155/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_156/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_157/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_158/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_159/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_160/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_161/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_162/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_163/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_164/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_165/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_166/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_167/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_168/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_169/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_170/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_171/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_172/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_173/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_174/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_175/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_176/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_177/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_178/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_179/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_180/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_181/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_182/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_183/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_184/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_185/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_186/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_187/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_188/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_189/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_190/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_191/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_192/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_193/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_194/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_195/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_196/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_197/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_198/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_199/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_200/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_201/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_202/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_203/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_204/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_205/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_206/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_207/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_208/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_209/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_210/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_211/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_212/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_213/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_214/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_215/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_216/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_217/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_218/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_219/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_220/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_221/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_222/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_223/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_224/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_225/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_226/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_227/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_228/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_229/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_230/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_231/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_232/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_233/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_234/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_235/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_236/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_237/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_238/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_239/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_240/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_241/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_242/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_243/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_244/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_245/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_246/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_247/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_248/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_249/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_250/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_251/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_252/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_253/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_254/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_255/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_256/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_257/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_258/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_259/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_260/param_card.dat
+set KAPPAZP 2.42
+0
+
+launch -m d00_SingleLQ
+24
+0
+set nevents 1000
+/mnt/Data/MadFolder/CrossX/BR_LQ/Events/run_261/param_card.dat
+set KAPPAZP 2.42
+0
+
+exit
