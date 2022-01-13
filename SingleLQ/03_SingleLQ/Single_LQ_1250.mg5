@@ -1,0 +1,77 @@
+import model Mod_VLQ_UFO
+define p = g u c d s u~ c~ d~ s~ b b~
+define j = g u c d s u~ c~ d~ s~ b b~
+define ta = ta+ ta-
+define qb = b b~
+define lq = vlq vlq~
+define lep = l+ l-
+generate p p > j ta lq QCD=0 NP=1, lq > ta qb 
+output lq_mzp1250_mlq1250 -nojpeg
+!ln -s '/home/crisfer2694/lhefile.py' lq_mzp1250_mlq1250/lhefile.py
+!ln -s '/home/crisfer2694/lhereader.py' lq_mzp1250_mlq1250/lhereader.py
+!ln -s '/home/crisfer2694/delphes_analysis.py' lq_mzp1250_mlq1250/delphes_analysis.py
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+/mnt/Data/MadFolder/Single_LQ_run_card.dat
+set nevents 25000
+set cut_decays True
+set ptb 20
+set etab 2.4
+/mnt/Data/MadFolder/CrossX/paramcards/M1250.0/param_card.dat
+/mnt/Data/MadFolder/delphes_card_CMS.dat
+/mnt/Data/MadFolder/pythia8_card.dat
+0
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp1250_mlq1250 -m
+22
+shower = Pythia8
+detector = Delphes
+0
+0
+
