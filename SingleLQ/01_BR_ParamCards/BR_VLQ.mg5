@@ -1,0 +1,9 @@
+import model Mod_VLQ_UFO/
+define ta = ta+ ta-
+define qb = b b~
+define lq = vlq vlq~
+generate vlq > all all
+add process zp > all all
+add process gp > all all
+output BR_LQ -nojpeg
+exit
