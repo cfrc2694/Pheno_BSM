@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 from ROOT import TLorentzVector
+import numpy as np
 
 class Particle:
     def __init__(self,pdgid,spin,px=0,py=0,pz=0,energy=0,mass=0):
@@ -9,7 +10,16 @@ class Particle:
         self.pz=pz
         self.energy=energy
         self.mass=mass
-        self.spin=spin    
+        self.spin=spin
+        self.Charge=0.0
+        typep=abs(pdgid)
+        if ((typep==2) or (typep==4) or (typep==6)):
+            self.Charge+=np.sign(pdgid)*2./3.
+        elif ((typep==1) or (typep==3) or (typep==5)):
+            self.Charge-=np.sign(pdgid)*1./3.
+        elif ((typep==11) or (typep==13) or (typep==15)):
+            self.Charge-=np.sign(pdgid)
+            
     
     @property
     def p4(self):
