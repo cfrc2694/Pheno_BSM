@@ -1,0 +1,138 @@
+import model Mod2_VLQ_UFO
+define p = g u c d s u~ c~ d~ s~ b b~
+define j = g u c d s u~ c~ d~ s~
+define ta = ta+ ta-
+define qb = b b~
+define lq = vlq vlq~
+define lep = l+ l-
+generate p p > j ta lq, lq > ta qb 
+output lq_mzp500_mlq500_2
+!ln -s `pwd`/lhereader.py lq_mzp500_mlq500_2/lhereader.py
+!cp `pwd`/Delphes_Analysis_signal.ipynb lq_mzp500_mlq500_2/Delphes_Analysis_signal.ipynb
+!cp `pwd`/LHE_Analysis.ipynb lq_mzp500_mlq500_2/LHE_Analysis.ipynb
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = OFF
+detector = OFF
+0
+/mnt/Data/MadFolder/Single_LQ_run_card.dat
+set nevents 25000
+set cut_decays True
+set ptb 30
+set ptj 30
+set ptl 20
+set etab 2.5
+/mnt/Data/MadFolder/CrossX2/paramcards/M500.0/param_card.dat
+#/mnt/Data/MadFolder/delphes_card_CMS.dat
+#/mnt/Data/MadFolder/pythia8_card.dat
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+launch  lq_mzp500_mlq500_2 -m
+24
+shower = Pythia8
+detector = Delphes
+0
+0
+
+!cp -av lq_mzp500_mlq500_2/. /backup/VLQ_Data_`date +%F`_`date +%H`_`date +%I`
+
+exit
