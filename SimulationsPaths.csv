@@ -1,3 +1,4 @@
+name,path,bkg
 bkg_stop,/disco1/SIMULACIONES/single_top/,True
 bkg_ttbar,/disco2/disco2_ORG/SIMULACIONES/ttbar/,True
 bkg_DYz,/disco3/SIMULACIONES/Backgrounds_2/z+jets/,True
